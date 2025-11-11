@@ -1,0 +1,1180 @@
+{
+  "qcm": [
+    {
+      "id": "Q1",
+      "type": 1,
+      "question": "highway/motorway",
+      "options": "",
+      "correct_answer": "autoroute"
+    },
+    {
+      "id": "Q2",
+      "type": 1,
+      "question": "cool",
+      "options": "",
+      "correct_answer": "frais"
+    },
+    {
+      "id": "Q3",
+      "type": 1,
+      "question": "a smell",
+      "options": "",
+      "correct_answer": "une odeur"
+    },
+    {
+      "id": "Q4",
+      "type": 1,
+      "question": "to shimmer",
+      "options": "",
+      "correct_answer": "vasciller"
+    },
+    {
+      "id": "Q5",
+      "type": 1,
+      "question": "sight",
+      "options": "",
+      "correct_answer": "la vue"
+    },
+    {
+      "id": "Q6",
+      "type": 1,
+      "question": "dim",
+      "options": "",
+      "correct_answer": "faible"
+    },
+    {
+      "id": "Q7",
+      "type": 1,
+      "question": "to grow/grew/grown",
+      "options": "",
+      "correct_answer": "devenir"
+    },
+    {
+      "id": "Q8",
+      "type": 1,
+      "question": "to light up/lit/lit",
+      "options": "",
+      "correct_answer": "allumer"
+    },
+    {
+      "id": "Q9",
+      "type": 1,
+      "question": "a candle",
+      "options": "",
+      "correct_answer": "une bougie"
+    },
+    {
+      "id": "Q10",
+      "type": 1,
+      "question": "a corridor",
+      "options": "",
+      "correct_answer": "un couloir"
+    },
+    {
+      "id": "Q11",
+      "type": 1,
+      "question": "anytime of year",
+      "options": "",
+      "correct_answer": "a n'importe quel moment de l'année"
+    },
+    {
+      "id": "Q12",
+      "type": 1,
+      "question": "twisted",
+      "options": "",
+      "correct_answer": "accro à"
+    },
+    {
+      "id": "Q13",
+      "type": 1,
+      "question": "sweet",
+      "options": "",
+      "correct_answer": "doux"
+    },
+    {
+      "id": "Q14",
+      "type": 1,
+      "question": "sweat",
+      "options": "",
+      "correct_answer": "transpiration"
+    },
+    {
+      "id": "Q15",
+      "type": 1,
+      "question": "to remember",
+      "options": "",
+      "correct_answer": "se rappeler"
+    },
+    {
+      "id": "Q16",
+      "type": 1,
+      "question": "to forget/forgot/forgotten",
+      "options": "",
+      "correct_answer": "oublier"
+    },
+    {
+      "id": "Q17",
+      "type": 1,
+      "question": "to live up",
+      "options": "",
+      "correct_answer": "mener la grande vie"
+    },
+    {
+      "id": "Q18",
+      "type": 1,
+      "question": "ceiling",
+      "options": "",
+      "correct_answer": "plafond"
+    },
+    {
+      "id": "Q19",
+      "type": 1,
+      "question": "of our own device",
+      "options": "",
+      "correct_answer": "de notre volonté"
+    },
+    {
+      "id": "Q20",
+      "type": 1,
+      "question": "to gather",
+      "options": "",
+      "correct_answer": "rassembler"
+    },
+    {
+      "id": "Q21",
+      "type": 1,
+      "question": "to stab",
+      "options": "",
+      "correct_answer": "poignarder"
+    },
+    {
+      "id": "Q22",
+      "type": 1,
+      "question": "steel/steely",
+      "options": "",
+      "correct_answer": "acier"
+    },
+    {
+      "id": "Q23",
+      "type": 1,
+      "question": "to check out",
+      "options": "",
+      "correct_answer": "payer la note"
+    },
+    {
+      "id": "Q24",
+      "type": 1,
+      "question": "rely on",
+      "options": "",
+      "correct_answer": "compter sur"
+    },
+    {
+      "id": "Q25",
+      "type": 1,
+      "question": "unfortunately",
+      "options": "",
+      "correct_answer": "malheuresement"
+    },
+    {
+      "id": "Q26",
+      "type": 1,
+      "question": "elderly,old",
+      "options": "",
+      "correct_answer": "vieux"
+    },
+    {
+      "id": "Q27",
+      "type": 1,
+      "question": "available",
+      "options": "",
+      "correct_answer": "disponible"
+    },
+    {
+      "id": "Q28",
+      "type": 1,
+      "question": "to set",
+      "options": "",
+      "correct_answer": "fixer"
+    },
+    {
+      "id": "Q29",
+      "type": 1,
+      "question": "frail",
+      "options": "",
+      "correct_answer": "faible"
+    },
+    {
+      "id": "Q30",
+      "type": 1,
+      "question": "size",
+      "options": "",
+      "correct_answer": "taille"
+    },
+    {
+      "id": "Q31",
+      "type": 1,
+      "question": "understudy",
+      "options": "",
+      "correct_answer": "une doublure"
+    },
+    {
+      "id": "Q32",
+      "type": 1,
+      "question": "to pick, to select",
+      "options": "",
+      "correct_answer": "choisir, sélectionner"
+    },
+    {
+      "id": "Q33",
+      "type": 1,
+      "question": "the wings",
+      "options": "",
+      "correct_answer": "les coulisses"
+    },
+    {
+      "id": "Q34",
+      "type": 1,
+      "question": "although",
+      "options": "",
+      "correct_answer": "bien que"
+    },
+    {
+      "id": "Q35",
+      "type": 1,
+      "question": "authentication",
+      "options": "",
+      "correct_answer": "authentification"
+    },
+    {
+      "id": "Q36",
+      "type": 1,
+      "question": "header",
+      "options": "",
+      "correct_answer": "un en-tête"
+    },
+    {
+      "id": "Q37",
+      "type": 1,
+      "question": "currently",
+      "options": "",
+      "correct_answer": "actuellement"
+    },
+    {
+      "id": "Q38",
+      "type": 1,
+      "question": "match",
+      "options": "",
+      "correct_answer": "égaler, correspondre"
+    },
+    {
+      "id": "Q39",
+      "type": 1,
+      "question": "length",
+      "options": "",
+      "correct_answer": "longueur"
+    },
+    {
+      "id": "Q40",
+      "type": 1,
+      "question": "to state",
+      "options": "",
+      "correct_answer": "énoncer, exposer, indiquer"
+    },
+    {
+      "id": "Q41",
+      "type": 1,
+      "question": "unavailable",
+      "options": "",
+      "correct_answer": "non disponible"
+    },
+    {
+      "id": "Q42",
+      "type": 1,
+      "question": "checksum",
+      "options": "",
+      "correct_answer": "somme de contrôle"
+    },
+    {
+      "id": "Q43",
+      "type": 1,
+      "question": "even if",
+      "options": "",
+      "correct_answer": "même si"
+    },
+    {
+      "id": "Q44",
+      "type": 1,
+      "question": "keep alive",
+      "options": "",
+      "correct_answer": "préserver, garder"
+    },
+    {
+      "id": "Q45",
+      "type": 1,
+      "question": "share",
+      "options": "",
+      "correct_answer": "partager"
+    },
+    {
+      "id": "Q46",
+      "type": 1,
+      "question": "to glitter",
+      "options": "",
+      "correct_answer": "briller, scintiller"
+    },
+    {
+      "id": "Q47",
+      "type": 1,
+      "question": "all that glitters is not gold",
+      "options": "",
+      "correct_answer": "tout ce qui brille n'est pas or"
+    },
+    {
+      "id": "Q48",
+      "type": 1,
+      "question": "stairway",
+      "options": "",
+      "correct_answer": "escalier"
+    },
+    {
+      "id": "Q49",
+      "type": 1,
+      "question": "a store",
+      "options": "",
+      "correct_answer": "un magasin"
+    },
+    {
+      "id": "Q50",
+      "type": 1,
+      "question": "to get/got/got",
+      "options": "",
+      "correct_answer": "arriver"
+    },
+    {
+      "id": "Q51",
+      "type": 1,
+      "question": "to mean/meant/meant",
+      "options": "",
+      "correct_answer": "vouloir dire, signifier"
+    },
+    {
+      "id": "Q52",
+      "type": 1,
+      "question": "a meaning",
+      "options": "",
+      "correct_answer": "un sens"
+    },
+    {
+      "id": "Q53",
+      "type": 1,
+      "question": "a brook",
+      "options": "",
+      "correct_answer": "un ruisseau"
+    },
+    {
+      "id": "Q54",
+      "type": 1,
+      "question": "to think/thought/thought",
+      "options": "",
+      "correct_answer": "penser"
+    },
+    {
+      "id": "Q55",
+      "type": 1,
+      "question": "a thought",
+      "options": "",
+      "correct_answer": "une pensée"
+    },
+    {
+      "id": "Q56",
+      "type": 1,
+      "question": "misgiven",
+      "options": "",
+      "correct_answer": "plein de doutes"
+    },
+    {
+      "id": "Q57",
+      "type": 1,
+      "question": "to wonder",
+      "options": "",
+      "correct_answer": "se demander"
+    },
+    {
+      "id": "Q58",
+      "type": 1,
+      "question": "a ring",
+      "options": "",
+      "correct_answer": "un anneau"
+    },
+    {
+      "id": "Q59",
+      "type": 1,
+      "question": "smoke",
+      "options": "",
+      "correct_answer": "la fumée"
+    },
+    {
+      "id": "Q60",
+      "type": 1,
+      "question": "to whisper",
+      "options": "",
+      "correct_answer": "murmurer"
+    },
+    {
+      "id": "Q61",
+      "type": 1,
+      "question": "to dawn",
+      "options": "",
+      "correct_answer": "se lever"
+    },
+    {
+      "id": "Q62",
+      "type": 1,
+      "question": "dawn",
+      "options": "",
+      "correct_answer": "aube"
+    },
+    {
+      "id": "Q63",
+      "type": 1,
+      "question": "dusk",
+      "options": "",
+      "correct_answer": "crépuscule"
+    },
+    {
+      "id": "Q64",
+      "type": 1,
+      "question": "from dawn to dusk",
+      "options": "",
+      "correct_answer": "du matin au soir"
+    },
+    {
+      "id": "Q65",
+      "type": 1,
+      "question": "to laugh",
+      "options": "",
+      "correct_answer": "rire"
+    },
+    {
+      "id": "Q66",
+      "type": 1,
+      "question": "laughter",
+      "options": "",
+      "correct_answer": "un rire"
+    },
+    {
+      "id": "Q67",
+      "type": 1,
+      "question": "bustle",
+      "options": "",
+      "correct_answer": "remu-ménage"
+    },
+    {
+      "id": "Q68",
+      "type": 1,
+      "question": "a hedgerow",
+      "options": "",
+      "correct_answer": "une haie"
+    },
+    {
+      "id": "Q69",
+      "type": 1,
+      "question": "a path",
+      "options": "",
+      "correct_answer": "un chemin"
+    },
+    {
+      "id": "Q70",
+      "type": 1,
+      "question": "to hum",
+      "options": "",
+      "correct_answer": "bourdonner"
+    },
+    {
+      "id": "Q71",
+      "type": 1,
+      "question": "to blow/blew/blown",
+      "options": "",
+      "correct_answer": "souffler"
+    },
+    {
+      "id": "Q72",
+      "type": 1,
+      "question": "a shadow",
+      "options": "",
+      "correct_answer": "une ombre"
+    },
+    {
+      "id": "Q73",
+      "type": 1,
+      "question": "at last/at least",
+      "options": "",
+      "correct_answer": "enfin/au moins"
+    },
+    {
+      "id": "Q74",
+      "type": 1,
+      "question": "a tune",
+      "options": "",
+      "correct_answer": "un air"
+    },
+    {
+      "id": "Q75",
+      "type": 1,
+      "question": "to sing another tune",
+      "options": "",
+      "correct_answer": "changer de ton"
+    },
+    {
+      "id": "Q76",
+      "type": 1,
+      "question": "spring clean",
+      "options": "",
+      "correct_answer": "nettoyage de printemps"
+    },
+    {
+      "id": "Q77",
+      "type": 1,
+      "question": "to lie",
+      "options": "",
+      "correct_answer": "mentir"
+    },
+    {
+      "id": "Q78",
+      "type": 1,
+      "question": "to lie/lay/lain",
+      "options": "",
+      "correct_answer": "se reposer"
+    },
+    {
+      "id": "Q79",
+      "type": 1,
+      "question": "troubleshoot",
+      "options": "",
+      "correct_answer": "dépanner"
+    },
+    {
+      "id": "Q80",
+      "type": 1,
+      "question": "to intend",
+      "options": "",
+      "correct_answer": "avoir l'intention de"
+    },
+    {
+      "id": "Q81",
+      "type": 1,
+      "question": "further",
+      "options": "",
+      "correct_answer": "plus loin"
+    },
+    {
+      "id": "Q82",
+      "type": 1,
+      "question": "to ensure",
+      "options": "",
+      "correct_answer": "s'assurer de"
+    },
+    {
+      "id": "Q83",
+      "type": 1,
+      "question": "otherwise",
+      "options": "",
+      "correct_answer": "autrement"
+    },
+    {
+      "id": "Q84",
+      "type": 1,
+      "question": "to achieve",
+      "options": "",
+      "correct_answer": "atteindre"
+    },
+    {
+      "id": "Q85",
+      "type": 1,
+      "question": "previous",
+      "options": "",
+      "correct_answer": "précédent"
+    },
+    {
+      "id": "Q86",
+      "type": 1,
+      "question": "mastery",
+      "options": "",
+      "correct_answer": "maitrise"
+    },
+    {
+      "id": "Q87",
+      "type": 1,
+      "question": "to switch",
+      "options": "",
+      "correct_answer": "commuter"
+    },
+    {
+      "id": "Q88",
+      "type": 1,
+      "question": "backbone",
+      "options": "",
+      "correct_answer": "épine dorsale"
+    },
+    {
+      "id": "Q89",
+      "type": 1,
+      "question": "neither... nor",
+      "options": "",
+      "correct_answer": "ni... ni"
+    },
+    {
+      "id": "Q90",
+      "type": 1,
+      "question": "therefore",
+      "options": "",
+      "correct_answer": "donc, alors"
+    },
+    {
+      "id": "Q91",
+      "type": 1,
+      "question": "to outline",
+      "options": "",
+      "correct_answer": "esquisser"
+    },
+    {
+      "id": "Q92",
+      "type": 1,
+      "question": "goal, purpose",
+      "options": "",
+      "correct_answer": "but"
+    },
+    {
+      "id": "Q93",
+      "type": 1,
+      "question": "acknowledgement",
+      "options": "",
+      "correct_answer": "reconnaissance, constatation"
+    },
+    {
+      "id": "Q94",
+      "type": 1,
+      "question": "anything else",
+      "options": "",
+      "correct_answer": "quoi que ce soit d'autre"
+    },
+    {
+      "id": "Q95",
+      "type": 1,
+      "question": "knowledge",
+      "options": "",
+      "correct_answer": "connaissance"
+    },
+    {
+      "id": "Q96",
+      "type": 1,
+      "question": "major",
+      "options": "",
+      "correct_answer": "principal"
+    },
+    {
+      "id": "Q97",
+      "type": 1,
+      "question": "to have trouble",
+      "options": "",
+      "correct_answer": "avoir des difficultés"
+    },
+    {
+      "id": "Q98",
+      "type": 1,
+      "question": "to assume",
+      "options": "",
+      "correct_answer": "présumer, supposer"
+    },
+    {
+      "id": "Q99",
+      "type": 1,
+      "question": "self-assessment",
+      "options": "",
+      "correct_answer": "auto évaluation"
+    },
+    {
+      "id": "Q100",
+      "type": 1,
+      "question": "neighbor",
+      "options": "",
+      "correct_answer": "voisin"
+    },
+    {
+      "id": "Q101",
+      "type": 1,
+      "question": "to guess",
+      "options": "",
+      "correct_answer": "deviner"
+    },
+    {
+      "id": "Q102",
+      "type": 1,
+      "question": "flood",
+      "options": "",
+      "correct_answer": "inonder, noyer"
+    },
+    {
+      "id": "Q103",
+      "type": 1,
+      "question": "forwarding",
+      "options": "",
+      "correct_answer": "faire suivre, expédier"
+    },
+    {
+      "id": "Q104",
+      "type": 1,
+      "question": "whenever",
+      "options": "",
+      "correct_answer": "à chaque fois que"
+    },
+    {
+      "id": "Q105",
+      "type": 1,
+      "question": "already",
+      "options": "",
+      "correct_answer": "déjà"
+    },
+    {
+      "id": "Q106",
+      "type": 1,
+      "question": "to skew",
+      "options": "",
+      "correct_answer": "biaiser"
+    },
+    {
+      "id": "Q107",
+      "type": 1,
+      "question": "to drop",
+      "options": "",
+      "correct_answer": "lâcher, abandonner"
+    },
+    {
+      "id": "Q108",
+      "type": 1,
+      "question": "remote",
+      "options": "",
+      "correct_answer": "à distance"
+    },
+    {
+      "id": "Q109",
+      "type": 1,
+      "question": "to deal with",
+      "options": "",
+      "correct_answer": "parler de"
+    },
+    {
+      "id": "Q110",
+      "type": 1,
+      "question": "to provide",
+      "options": "",
+      "correct_answer": "donner, fournir"
+    },
+    {
+      "id": "Q111",
+      "type": 1,
+      "question": "comprehension, understanding",
+      "options": "",
+      "correct_answer": "compréhension"
+    },
+    {
+      "id": "Q112",
+      "type": 1,
+      "question": "there is no need",
+      "options": "",
+      "correct_answer": "ce n'est pas la peine"
+    },
+    {
+      "id": "Q113",
+      "type": 1,
+      "question": "how often",
+      "options": "",
+      "correct_answer": "avec quelle fréquence"
+    },
+    {
+      "id": "Q114",
+      "type": 1,
+      "question": "within",
+      "options": "",
+      "correct_answer": "au sein de"
+    },
+    {
+      "id": "Q115",
+      "type": 1,
+      "question": "to gauge",
+      "options": "",
+      "correct_answer": "mesurer, évaluer"
+    },
+    {
+      "id": "Q116",
+      "type": 1,
+      "question": "share",
+      "options": "",
+      "correct_answer": "partager"
+    },
+    {
+      "id": "Q117",
+      "type": 1,
+      "question": "reply, response",
+      "options": "",
+      "correct_answer": "réponse"
+    },
+    {
+      "id": "Q118",
+      "type": 1,
+      "question": "to override",
+      "options": "",
+      "correct_answer": "réponse"
+    },
+    {
+      "id": "Q119",
+      "type": 1,
+      "question": "to gather",
+      "options": "",
+      "correct_answer": "rassembler"
+    },
+    {
+      "id": "Q120",
+      "type": 1,
+      "question": "to prevent from",
+      "options": "",
+      "correct_answer": "empêcher de faire"
+    },
+    {
+      "id": "Q121",
+      "type": 1,
+      "question": "to perform",
+      "options": "",
+      "correct_answer": "effectuer"
+    },
+    {
+      "id": "Q122",
+      "type": 1,
+      "question": "two ways",
+      "options": "",
+      "correct_answer": "à double sens"
+    },
+    {
+      "id": "Q123",
+      "type": 1,
+      "question": "also",
+      "options": "",
+      "correct_answer": "aussi"
+    },
+    {
+      "id": "Q124",
+      "type": 1,
+      "question": "stage",
+      "options": "",
+      "correct_answer": "étage"
+    },
+    {
+      "id": "Q125",
+      "type": 1,
+      "question": "either... or",
+      "options": "",
+      "correct_answer": "ou... ou"
+    },
+    {
+      "id": "Q126",
+      "type": 1,
+      "question": "as such",
+      "options": "",
+      "correct_answer": "en tant que tel"
+    },
+    {
+      "id": "Q127",
+      "type": 1,
+      "question": "bandwidth",
+      "options": "",
+      "correct_answer": "largeur de bande"
+    },
+    {
+      "id": "Q128",
+      "type": 1,
+      "question": "feature",
+      "options": "",
+      "correct_answer": "caractéristique"
+    },
+    {
+      "id": "Q129",
+      "type": 1,
+      "question": "to belong",
+      "options": "",
+      "correct_answer": "appartenir"
+    },
+    {
+      "id": "Q130",
+      "type": 1,
+      "question": "fail",
+      "options": "",
+      "correct_answer": "échouer, tomber en panne"
+    },
+    {
+      "id": "Q131",
+      "type": 1,
+      "question": "relationship",
+      "options": "",
+      "correct_answer": "relation"
+    },
+    {
+      "id": "Q132",
+      "type": 1,
+      "question": "none",
+      "options": "",
+      "correct_answer": "aucun"
+    },
+    {
+      "id": "Q133",
+      "type": 1,
+      "question": "to interrelate",
+      "options": "",
+      "correct_answer": "entrer en relation"
+    },
+    {
+      "id": "Q134",
+      "type": 1,
+      "question": "efficient",
+      "options": "",
+      "correct_answer": "efficace"
+    },
+    {
+      "id": "Q135",
+      "type": 1,
+      "question": "each",
+      "options": "",
+      "correct_answer": "chaque"
+    },
+    {
+      "id": "Q136",
+      "type": 1,
+      "question": "own",
+      "options": "",
+      "correct_answer": "propre, à soi"
+    },
+    {
+      "id": "Q137",
+      "type": 1,
+      "question": "straightforward",
+      "options": "",
+      "correct_answer": "simple, franc"
+    },
+    {
+      "id": "Q138",
+      "type": 1,
+      "question": "so that",
+      "options": "",
+      "correct_answer": "pour que, afin que"
+    },
+    {
+      "id": "Q139",
+      "type": 1,
+      "question": "fully",
+      "options": "",
+      "correct_answer": "totalement"
+    },
+    {
+      "id": "Q140",
+      "type": 1,
+      "question": "prompt",
+      "options": "",
+      "correct_answer": "provoquer"
+    },
+    {
+      "id": "Q141",
+      "type": 1,
+      "question": "accurate",
+      "options": "",
+      "correct_answer": "précis, fidèle, exact"
+    },
+    {
+      "id": "Q142",
+      "type": 1,
+      "question": "prune",
+      "options": "",
+      "correct_answer": "tailler, élaguer, réduire"
+    },
+    {
+      "id": "Q143",
+      "type": 1,
+      "question": "while",
+      "options": "",
+      "correct_answer": "pendant que"
+    },
+    {
+      "id": "Q144",
+      "type": 1,
+      "question": "summarize",
+      "options": "",
+      "correct_answer": "résumer"
+    },
+    {
+      "id": "Q145",
+      "type": 1,
+      "question": "awaiting",
+      "options": "",
+      "correct_answer": "être en attente"
+    },
+    {
+      "id": "Q146",
+      "type": 1,
+      "question": "the next few chapters",
+      "options": "",
+      "correct_answer": "les quelques chapitres suivants"
+    },
+    {
+      "id": "Q147",
+      "type": 1,
+      "question": "obvious",
+      "options": "",
+      "correct_answer": "évident"
+    },
+    {
+      "id": "Q148",
+      "type": 1,
+      "question": "conversely",
+      "options": "",
+      "correct_answer": "inversement, réciproquement"
+    },
+    {
+      "id": "Q149",
+      "type": 1,
+      "question": "SPF",
+      "options": "",
+      "correct_answer": "Shortest Path First"
+    },
+    {
+      "id": "Q150",
+      "type": 1,
+      "question": "OSPF",
+      "options": "",
+      "correct_answer": "Open Shortest Path First"
+    },
+    {
+      "id": "Q151",
+      "type": 1,
+      "question": "LAN",
+      "options": "",
+      "correct_answer": "Local Area Network"
+    },
+    {
+      "id": "Q152",
+      "type": 1,
+      "question": "WAN",
+      "options": "",
+      "correct_answer": "Wide Area Network"
+    },
+    {
+      "id": "Q153",
+      "type": 1,
+      "question": "LSA",
+      "options": "",
+      "correct_answer": "Link State Advertisement"
+    },
+    {
+      "id": "Q154",
+      "type": 1,
+      "question": "LSU",
+      "options": "",
+      "correct_answer": "Link State Update"
+    },
+    {
+      "id": "Q155",
+      "type": 1,
+      "question": "LSR",
+      "options": "",
+      "correct_answer": "Link State Request"
+    },
+    {
+      "id": "Q156",
+      "type": 1,
+      "question": "LSP",
+      "options": "",
+      "correct_answer": "Link State Packet"
+    },
+    {
+      "id": "Q157",
+      "type": 1,
+      "question": "DR",
+      "options": "",
+      "correct_answer": "Designated Router"
+    },
+    {
+      "id": "Q158",
+      "type": 1,
+      "question": "BDR",
+      "options": "",
+      "correct_answer": "Backup Designated Router"
+    },
+    {
+      "id": "Q159",
+      "type": 1,
+      "question": "NBMA",
+      "options": "",
+      "correct_answer": "Nonbroadcast multiaccess"
+    },
+    {
+      "id": "Q160",
+      "type": 1,
+      "question": "DBD",
+      "options": "",
+      "correct_answer": "Data Base Descriptor"
+    },
+    {
+      "id": "Q161",
+      "type": 1,
+      "question": "DDP",
+      "options": "",
+      "correct_answer": "Database Descriptor Packet"
+    },
+    {
+      "id": "Q162",
+      "type": 1,
+      "question": "IP",
+      "options": "",
+      "correct_answer": "Internet Protocol"
+    },
+    {
+      "id": "Q163",
+      "type": 1,
+      "question": "CPU",
+      "options": "",
+      "correct_answer": "Central Processing Unit"
+    },
+    {
+      "id": "Q164",
+      "type": 1,
+      "question": "PVC",
+      "options": "",
+      "correct_answer": "Permanent Virtual Circuit"
+    },
+    {
+      "id": "Q165",
+      "type": 1,
+      "question": "HDLC",
+      "options": "",
+      "correct_answer": "High level Data Link Control"
+    },
+    {
+      "id": "Q166",
+      "type": 1,
+      "question": "FDDI",
+      "options": "",
+      "correct_answer": "Fiber Distributed Data Interface"
+    },
+    {
+      "id": "Q167",
+      "type": 1,
+      "question": "RFC",
+      "options": "",
+      "correct_answer": "Request For Comment"
+    },
+    {
+      "id": "Q168",
+      "type": 1,
+      "question": "IOS",
+      "options": "",
+      "correct_answer": "Input/Ouput System"
+    }
+  ]
+}

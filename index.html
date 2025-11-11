@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QCM Factory</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="message-container"></div>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 QCM Factory</h1>
+            <div class="shuffle-controls">
+                <button onclick="shuffleQuestions()" class="shuffle-btn">🔀 Mélanger les questions</button>
+                <button onclick="resetOrder()" class="shuffle-btn">↩️ Ordre original</button>
+                <button onclick="resetQCM()" class="shuffle-btn">🔄 Réinitialiser le QCM</button>
+                <button onclick="returnToFileSelection()" class="shuffle-btn" title="Changer de QCM">📁 Importer</button>
+            </div>
+            
+            <!-- Remplacer la div .question-navigator existante par cette structure -->
+            <div id="question-navigator" class="question-navigator">
+                <div class="navigator-header" onclick="toggleNavigator()">
+                    <h3 class="navigator-title">🗺️ Navigation des questions</h3>
+                    <button class="navigator-toggle" type="button" onclick="event.stopPropagation(); toggleNavigator();" aria-label="Réduire/Étendre le navigateur">
+                        <span class="toggle-icon">▼</span>
+                    </button>
+                </div>
+                
+                <div class="navigator-content">
+                    <div id="question-buttons" class="question-buttons">
+                        <!-- Les boutons de navigation seront générés ici -->
+                    </div>
+                    
+                    <div class="navigator-legend">
+                        <div class="legend-item">
+                            <div class="legend-color legend-current"></div>
+                            <span>Actuelle</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-color legend-visited"></div>
+                            <span>Visitée</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-color legend-error"></div>
+                            <span>Marquée fausse</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-color legend-unvisited"></div>
+                            <span>Non visitée</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="question-counter">
+                Question <span id="current-question">1</span> sur <span id="total-questions">5</span>
+                <span class="question-id">ID: <span id="question-id">1</span></span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+        </div>
+
+        <div id="question-container" class="question-card">
+            <!-- Le contenu sera généré dynamiquement -->
+        </div>
+
+        <div id="message-container"></div>
+
+        <div style="text-align: center;">
+            <button id="validate-btn" class="validate-btn">Valider</button>
+        </div>
+        
+        <!-- Bouton scroll to top -->
+        <button id="scroll-to-top" class="scroll-to-top" title="Remonter en haut">
+            ⬆️
+        </button>
+        
+        <!-- Navigation des questions marquées fausses -->
+        <div id="error-nav-container" class="error-nav-container">
+            <button id="prev-error-btn" class="error-nav-btn" title="Question fausse précédente">
+                ◀
+            </button>
+            <button id="random-error-btn" class="error-nav-btn error-cross" onclick="goToRandomError()" title="Question fausse aléatoire">❌</button>
+            <button id="next-error-btn" class="error-nav-btn" title="Question fausse suivante">
+                ▶
+            </button>
+        </div>
+    </div>
+    <div class="side-navigation left" id="prev-nav">
+        <button class="side-nav-btn" id="prev-question-btn" title="Question précédente (Flèche gauche)">
+            &#8249;
+        </button>
+    </div>
+
+    <div class="side-navigation right" id="next-nav">
+        <button class="side-nav-btn" id="next-question-btn" title="Question suivante (Flèche droite)">
+            &#8250;
+        </button>
+    </div>
+
+    <div class="keyboard-hint" id="keyboard-hint">
+        Utilisez ← → pour naviguer
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
