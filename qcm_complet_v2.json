@@ -1175,6 +1175,146 @@
       "question": "IOS",
       "options": "",
       "correct_answer": "Input/Ouput System"
+    },
+    {
+      "id": "Q169",
+      "type": 1,
+      "question": "Postgraduate studies",
+      "options": "",
+      "correct_answer": "Études postuniversitaires"
+    },
+    {
+      "id": "Q170",
+      "type": 1,
+      "question": "Challenge for companies",
+      "options": "",
+      "correct_answer": "Défi pour les entreprises"
+    },
+    {
+      "id": "Q171",
+      "type": 1,
+      "question": "Ideas worth spreading",
+      "options": "",
+      "correct_answer": "Des idées qui méritent d’être diffusées"
+    },
+    {
+      "id": "Q172",
+      "type": 1,
+      "question": "Free online classes",
+      "options": "",
+      "correct_answer": "Cours en ligne gratuits"
+    },
+    {
+      "id": "Q173",
+      "type": 1,
+      "question": "Programmable industrial robots",
+      "options": "",
+      "correct_answer": "Robots industriels programmables"
+    },
+    {
+      "id": "Q174",
+      "type": 1,
+      "question": "The three laws of robotics",
+      "options": "",
+      "correct_answer": "Les trois lois de la robotique"
+    },
+    {
+      "id": "Q175",
+      "type": 1,
+      "question": "Alternative uncolonized Africa",
+      "options": "",
+      "correct_answer": "Afrique alternative non colonisée"
+    },
+    {
+      "id": "Q176",
+      "type": 1,
+      "question": "Electronic waste",
+      "options": "",
+      "correct_answer": "Déchets électroniques"
+    },
+    {
+      "id": "Q177",
+      "type": 1,
+      "question": "Digital work",
+      "options": "",
+      "correct_answer": "Travail numérique"
+    },
+    {
+      "id": "Q178",
+      "type": 1,
+      "question": "Dreadful living conditions",
+      "options": "",
+      "correct_answer": "Conditions de vie épouvantables"
+    },
+    {
+      "id": "Q179",
+      "type": 1,
+      "question": "High density of citizens",
+      "options": "",
+      "correct_answer": "Forte densité de population"
+    },
+    {
+      "id": "Q180",
+      "type": 1,
+      "question": "Civil Rights Act",
+      "options": "",
+      "correct_answer": "Loi sur les droits civiques"
+    },
+    {
+      "id": "Q181",
+      "type": 1,
+      "question": "Distrust in democracy",
+      "options": "",
+      "correct_answer": "Méfiance envers la démocratie"
+    },
+    {
+      "id": "Q182",
+      "type": 1,
+      "question": "Deterioration of people's access to information",
+      "options": "",
+      "correct_answer": "Détérioration de l’accès des gens à l’information"
+    },
+    {
+      "id": "Q183",
+      "type": 1,
+      "question": "Media tycoon",
+      "options": "",
+      "correct_answer": "Magnat des médias"
+    },
+    {
+      "id": "Q184",
+      "type": 1,
+      "question": "Cover-up operations during the Vietnam war",
+      "options": "",
+      "correct_answer": "Opérations de dissimulation pendant la guerre du Viêt Nam"
+    },
+    {
+      "id": "Q185",
+      "type": 1,
+      "question": "Fear (verb or noun)",
+      "options": "",
+      "correct_answer": "Craindre / la peur"
+    },
+    {
+      "id": "Q186",
+      "type": 1,
+      "question": "Working-class background",
+      "options": "",
+      "correct_answer": "Origine ouvrière"
+    },
+    {
+      "id": "Q187",
+      "type": 1,
+      "question": "Deadly confrontation",
+      "options": "",
+      "correct_answer": "Confrontation mortelle"
+    },
+    {
+      "id": "Q188",
+      "type": 1,
+      "question": "Greet crowds of people",
+      "options": "",
+      "correct_answer": "Saluer des foules de personnes"
     }
   ]
 }
